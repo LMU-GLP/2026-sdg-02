@@ -30,3 +30,4 @@ Fresno County isn't just food-insecure; it's food-insecure *and* higher-obesity 
 - [The UN target this challenge maps to](un-goal.md)
 - [Programs already working on this in Fresno](programs-in-fresno.md)
 - [App concept: mapping obesity and food-access gaps](app-concept.md)
+- [Concept: a water-soluble nutrient pod](nutrient-pod-concept.md)

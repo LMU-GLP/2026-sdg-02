@@ -98,8 +98,18 @@ or the same state innovation-challenge program.
    licensing or a data-sharing agreement (likely the ongoing cost) alongside a
    one-time build grant.
 
+## Related concept
+
+This app is a discovery and routing tool — it finds priority areas and points
+people at existing resources, it doesn't provide food or nutrients itself. The
+team's other proposed solution, [a water-soluble nutrient pod](nutrient-pod-concept.md),
+is a product for the same low-food-access population; the two are
+complementary, not competing, and nothing here assumes the team has to pick
+only one.
+
 ## See also
 
 - [Fresno County: the data](fresno-county.md)
 - [Programs already working on this in Fresno](programs-in-fresno.md)
 - [The UN target this challenge maps to](un-goal.md)
+- [Concept: a water-soluble nutrient pod](nutrient-pod-concept.md)

@@ -57,3 +57,4 @@ exist in the county — see [App concept](app-concept.md).
 
 - [Fresno County: the data](fresno-county.md)
 - [App concept: mapping obesity and food-access gaps](app-concept.md)
+- [Concept: a water-soluble nutrient pod](nutrient-pod-concept.md)
