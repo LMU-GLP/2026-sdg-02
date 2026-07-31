@@ -5,6 +5,7 @@ Start here. Every claim in these pages traces back to a file in
 
 | Page | Summary |
 |---|---|
+| [Problem statement](problem-statement.md) | The team's committed problem: LA County, all households, 24% (~814,000) food insecure and stalled since 2024, driven by cost of living. |
 | [Los Angeles](los-angeles.md) | LA County's food insecurity rate, who's affected, the 2025 shocks behind it, and one business (Everytable) already responding to it. |
 | [South Korea](south-korea.md) | Food insecurity among Seoul's 65+ residents, why it's driven more by environment and physical access than money, and the study's own recommended fix. |
 | [LA vs. South Korea](la-vs-south-korea.md) | Puts both regions' headline numbers side by side and explains why they can't be compared directly — plus which one comparison is safe. |
