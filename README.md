@@ -19,8 +19,9 @@ in its top-right corner.
 ## What's already here
 
 - `CLAUDE.md` — the rules Claude follows in this repo
-- `sources/` — two sources we found for you, one on Los Angeles and one on
-  South Korea. Read both before you pick a region
+- `sources/` — two sources we found for you. Read both before you pick a region:
+- [Los Angeles](sources/la-food-insecurity.md)
+- [South Korea](sources/korea-elderly-food-insecurity.md)
 - UN targets for your goal: [sdgs.un.org/goals/goal2](https://sdgs.un.org/goals/goal2)
 
 ## What Claude Code is
